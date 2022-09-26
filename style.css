@@ -1,0 +1,51 @@
+.format1 {
+    margin: 0cm;
+    font-size: medium;
+    font-family: "Liberation Serif", serif;
+}
+.bigboy {
+    margin-top: 12pt;
+    margin-right: 0cm;
+    margin-bottom: 6pt;
+    margin-left: 0cm;
+    text-align: center;
+    font-size: 37px;
+    font-family: "Liberation Sans", sans-serif;
+    font-weight: bold;
+}
+.super_boy {
+    margin-top: 3pt;
+    margin-right: 0cm;
+    margin-bottom: 6pt;
+    margin-left: 0cm;
+    text-align: center;
+    font-size: 24px;
+    font-family: "Liberation Sans", sans-serif;
+}
+.title1 {
+    margin-top: 12pt;
+    margin-right: 0cm;
+    margin-bottom: 6pt;
+    margin-left: 0cm;
+    text-indent: 0cm;
+    font-size: 24px;
+    font-family: "Liberation Sans", sans-serif;
+}
+.sad_name {
+    margin-top: 10pt;
+    margin-right: 0cm;
+    margin-bottom: 6pt;
+    margin-left: 0cm;
+    text-indent: 0cm;
+    font-size: 24px;
+    font-family: "Liberation Serif", serif;
+}
+.boring1 {
+    margin-bottom: 0cm;
+    margin-top: 0cm;
+}
+.boring2 {
+    margin: 0cm;
+    font-size: 16px;
+    font-family: "Liberation Serif", serif;
+}
