@@ -1,0 +1,18 @@
+body {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: Arial;
+}
+/*----to make some objects stay in right side of the corner----*/
+.right{
+  float: right;
+  padding: 5px 10px;
+  background-color: cornsilk;
+  font-family: Arial;
+}
+
+/*----to allow insert other components in one line with h1 or any other "h"----*/
+.H{
+  display: inline-block;
+}
